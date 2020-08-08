@@ -1,1 +1,7 @@
-
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/usr/opt/yourprogram/icon.png
+Exec=sh /usr/opt/yourprogram/program.sh
+Name=SampleShortcut
