@@ -1,1 +1,1 @@
-*.md linguist-language=Bash
+customization/create_sh_shortcut/* linguist-language=Bash
